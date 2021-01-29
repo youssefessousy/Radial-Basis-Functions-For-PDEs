@@ -10,4 +10,4 @@ The codes are given in the file "Codes" and they are in python (.py). Every code
 
 Note that the files Schemes.py, Schemes2D.py and Schemes_SW.py are necessary to execute the other files.py. Well in these 3 files, we defined a lot of functions, time schemes and exact and initial conditions that we call in the other files !!
 
-This work was our first project concerning solving PDEs with a numerical method using a programming language. And it has been done by me and my classmate RIFQUI ABDESSADEK under the direction of the professor TAIK Ahmed which we really thank so much for his time and cooperation.
+This work was our first project concerning solving PDEs with a numerical method using a programming language. And it has been done by me and my classmate RIFQUI ABDESSADEK under the direction of the professor TAIK Ahmed whom we really thank so much for his time and cooperation.
