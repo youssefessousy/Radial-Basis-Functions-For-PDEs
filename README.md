@@ -8,4 +8,6 @@ The principile of the method is given in the report (you will find it in the bra
 
 The codes are given in the file "Codes" and they are in python (.py). Every code treats a certain equation with all the time-schemes (Euler and RK 2,3,4) and both of methods (Multiquadric and Compactly Supported). It also compute two types of errors (MAE and RMSE). For the one-dimentional Burger's equation, We have studied Riemann problems (6 cases : Chock/ Detente/Both/...) in one file, that's why the codes are a little long, Because they treat all two methods and 4 time-schemes in just one program and all we need is to comment and uncomment a certain string variables to choose the method (MQ or CS) and the time-scheme (Eule/RK2/RK3/RK4).
 
+Note that the files Schemes.py, Schemes2D.py and Schemes_SW.py are necessary to execute the other files.py. Well in these 3 files, we defined a lot of functions, time schemes and exact and initial conditions that we call in the other files !!
+
 This work was our first project concerning solving PDEs with a numerical method using a programming language. And it has been done by me and my classmate RIFQUI ABDESSADEK under the direction of the professor TAIK Ahmed which we really thank so much for his time and cooperation
